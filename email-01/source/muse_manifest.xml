@@ -1,0 +1,22 @@
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://37.140.192.86" ftp_rootfolder="/public_html/dontel.me" exportTarget="FTP" resolutions="1x" timestamp="1443700916867">
+  <folder name="css">
+    <file name="site_global.css" crc="374535687"/>
+    <file name="index.css" crc="153155195" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="beausanspro.woff" crc="401766460"/>
+    <file name="beausanspro.eot" crc="76442614"/>
+    <file name="beausanspro.svg" crc="4058080153"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pattern.jpg" crc="4032418460" ref="index"/>
+    <file name="logo_vert.png" crc="3769637665" ref="index"/>
+  </folder>
+  <file name="index.html" crc="196630434" mt="1443700899851" redirect="true"/>
+</manifest>
